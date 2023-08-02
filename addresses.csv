@@ -1,6 +1,6 @@
-email
-John@gmail.com
-osama@gmail.com
-test@gmail.com
-abc@gmail.com
-xyz@gmail.com
+email,type
+John@gmail.com,1
+osama@gmail.com,2
+test@gmail.com,1
+abc@gmail.com,3
+xyz@gmail.com,4
